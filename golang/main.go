@@ -9,5 +9,6 @@ import (
 func main() {
 	fmt.Println("Пшеничников Иван Михайлович")
 	labs.Runlab4()
+
 	labs.Runlab6()
 }
